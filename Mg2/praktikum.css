@@ -1,0 +1,40 @@
+.header{
+    background-color:bisque;
+    padding: 20px 10px;
+}
+.navbar{
+    display: flex;
+    background-color:burlywood;
+    padding: 20px;
+}
+.navbar > div{
+    margin-left: 150px;
+    text-decoration: none;
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+}
+.main{
+    display: flex;
+}
+.content{
+    width: 1000px;
+    background-color:#D1A470;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10pt;
+}
+.berita{
+    width: 600px;
+    background-color:wheat;
+}
+.berita > img,a{
+    margin-left: 150px;
+}
+footer{
+    background-color:#D4BB82;
+    text-align: center;
+    padding: 7px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+}
